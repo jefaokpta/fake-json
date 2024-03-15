@@ -7,9 +7,19 @@
         "invalidOption": "teste *Opção inválida!* Por favor, escolha uma das opções abaixo:",
         "validOption": "teste Estamos direcionando seu atendimento para o departamento responsável.\r\nVocê pode encerrar o seu atendimento a qualquer momento, basta enviar um *#*.",
         "finalMessage": "teste A *Vip Solutions* agradece o seu contato.",
-        "openTime": "09:00",
-        "closeTime": "12:00",
         "messageTime": "Estamos fora do horario de funcionamento",
+        "workTime": [
+            {
+                "weekDay": "MONDAY",
+                "openTime": "09:00",
+                "closeTime": "12:00"
+            },
+            {
+                "weekDay": "TUESDAY",
+                "openTime": "09:00",
+                "closeTime": "12:00"
+            }
+        ],
         "options": [
             {
                 "id": 2639,
