@@ -9,6 +9,7 @@
         "finalMessage": "teste A *Vip Solutions* agradece o seu contato.",
         "openTime": "09:00",
         "closeTime": "12:00",
+        "messageTime": "Estamos fora do horario de funcionamento",
         "options": [
             {
                 "id": 2639,
