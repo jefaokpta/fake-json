@@ -1,0 +1,26 @@
+{
+    "id": 10,
+    "label": "Quero Sub URA",
+    "active": false,
+    "initialMessage": "TESTE - Este canal é exclusivo para vendas e clientes em fase de implantação.\r\nNecessidades como suporte técnico, financeiro, pós venda, entre outros\r\nfavor entrar em contato no 1142100101\r\n\r\nGostaria de dar continuidade ao seu atendimento?",
+    "agentsEmpty": "TESTE - No momento, todos os nossos atendentes estão ocupados.\r\nEm breve retornaremos seu contato.",
+    "invalidOption": "TESTE - *Opção inválida!* Por favor, escolha uma das opções abaixo:\r\n",
+    "validOption": "TESTE - Estamos direcionando seu atendimento para o departamento responsável.\r\n\r\nCaso tenha selecionado a opção 2, digite # para encerrar seu atendimento.\r\n",
+    "finalMessage": "TESTE - A *Vip Solutions* agradece o seu contato.",
+    "options": [
+        {
+            "id": 3889,
+            "option": 1,
+            "department": "Sim",
+            "chatbotId": 180,
+            "deptoId": "638"
+        },
+        {
+            "id": 3890,
+            "option": 2,
+            "department": "Não",
+            "chatbotId": 180,
+            "deptoId": "639"
+        }
+    ]
+}
