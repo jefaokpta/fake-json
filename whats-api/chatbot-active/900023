@@ -46,7 +46,7 @@
                 "option": 1,
                 "department": "teste Já sou cliente",
                 "chatbotId": 136,
-                "deptoId": "412"
+                "deptoId": "subura-10"
             },
             {
                 "id": 2640,
@@ -54,13 +54,6 @@
                 "department": "teste Não sou cliente",
                 "chatbotId": 136,
                 "deptoId": "413"
-            },
-            {
-                    "id": 4528,
-                    "option": 3,
-                    "department": "Quero conhecer seus serviços",
-                    "chatbotId": 1360,
-                    "deptoId": "subura-10"
             }
         ]
     }
