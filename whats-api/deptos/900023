@@ -46,5 +46,17 @@
     {
         "id": 418,
         "title": "Nenhum das opções"
+    },
+    {
+        "id": 638,
+        "title": "Sim"
+    },
+    {
+        "id": 639,
+        "title": "Não"
+    },
+    {
+        "id": 640,
+        "title": "Encerramento"
     }
 ]
