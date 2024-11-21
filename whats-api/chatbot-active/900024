@@ -54,6 +54,14 @@
                 "department": "teste Não sou cliente",
                 "chatbotId": 136,
                 "deptoId": "413"
+            },
+            {
+                "id": 2641,
+                "option": 3,
+                "department": "Suporte Técnico",
+                "chatbotId": 136,
+                "deptoId": "encerramento",
+                "information": "Verifique se você está com internet, obrigado!"
             }
         ]
     }
