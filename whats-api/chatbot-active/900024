@@ -60,7 +60,7 @@
                 "option": 3,
                 "department": "Suporte Técnico",
                 "chatbotId": 136,
-                "deptoId": "encerramento",
+                "deptoId": "finalize",
                 "information": "Verifique se você está com internet, obrigado!"
             }
         ]
