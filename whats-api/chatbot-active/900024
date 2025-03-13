@@ -63,6 +63,5 @@
             "deptoId": "finalize",
             "information": "Verifique se você está com internet, obrigado!"
         }
-    ],
-    "parkedTimeout": 20
+    ]
 }
